@@ -2,11 +2,10 @@
 It is the application that dynamically brings the form to the page from the API
 
  ## Languages and Technologies Used in this Project
-:arrow_right: HTML5 </br>
-:arrow_right: CSS3 </br>
-:arrow_right: JavaScript </br>
-:arrow_right: jQuery </br>
-:arrow_right: Bootstrap </br>
+:arrow_right: ReactJs </br>
+:arrow_right: TypeScript </br>
+:arrow_right: Axios </br>
+
 <br/>
 
  ## Application Images
